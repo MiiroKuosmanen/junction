@@ -1,0 +1,60 @@
+.Mainview {
+  text-align: center;
+  background-color: #282c34;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  animation: fade-in 1s linear;
+  animation-iteration-count: 1;
+}
+
+.Finance {
+  padding: 15px;
+  flex: 2;
+  border: solid;
+  border-color: white;
+  border-width: 1px;
+}
+
+.Nutrients {
+  padding: 15px;
+  flex: 2;
+  border: solid;
+  border-color: white;
+  border-width: 1px;
+}
+
+.Profile {
+  padding: 15px;
+  flex: 1;
+  border: solid;
+  border-color: white;
+  border-width: 1px;
+}
+
+.Suggestions {
+  padding: 15px;
+  flex: 2;
+  border: solid;
+  border-color: white;
+  border-width: 1px;
+}
+
+.FoodCategory {
+  padding: 15px;
+  flex: 3;
+  border: solid;
+  border-color: white;
+  border-width: 1px;
+}
+
+a {
+  color: white;
+}
+
+li {
+  text-align: left;
+}
+
+
