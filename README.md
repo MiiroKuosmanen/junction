@@ -40,12 +40,12 @@ And of course a lot of:
 ### Features
 * [Market Basket Analysis] - Use apriori algorithm to calculate relevant items, currently uses sub categories however can be scaled to use EAN'S.
 
-* [Financial Summary] - We used the 
+* [Financial Summary] - Given the customer ID, we can send financial summary information to the customer with a time range filter 
 
 ![image](https://user-images.githubusercontent.com/12884292/48976818-b65b5680-f096-11e8-9ff6-18e64860e43d.png)
 ![image](https://user-images.githubusercontent.com/12884292/48976824-cbd08080-f096-11e8-9906-03b710d6e82e.png)
 
-* [Nutritional Information] - 
+* [Nutritional Information] - We provide more detailed nutritional information detailed for suggested recepies. 
 We used the ![image](https://user-images.githubusercontent.com/12884292/48976859-41d4e780-f097-11e8-8362-60e8d9e8ed7c.png)
 ![image](https://user-images.githubusercontent.com/12884292/48976842-fa4e5b80-f096-11e8-9b0c-ae5bec84f205.png)
 
