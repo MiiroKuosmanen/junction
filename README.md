@@ -34,15 +34,15 @@ And of course a lot of:
 * [Coffee and Energy Drinks]
 
 ### Features
-* [Market Basket Analysis] - We used the 
+* [Market Basket Analysis] - Suggesting Market 
 
 * [Financial Summary] - We used the 
 
 ![image](https://user-images.githubusercontent.com/12884292/48976818-b65b5680-f096-11e8-9ff6-18e64860e43d.png)
 ![image](https://user-images.githubusercontent.com/12884292/48976824-cbd08080-f096-11e8-9906-03b710d6e82e.png)
 
-* [Nutritional Information] - We used the 
-![image](https://user-images.githubusercontent.com/12884292/48976834-e4409b00-f096-11e8-89d0-ddc4a28ba5d3.png)
+* [Nutritional Information] - 
+We used the ![image](https://user-images.githubusercontent.com/12884292/48976859-41d4e780-f097-11e8-8362-60e8d9e8ed7c.png)
 ![image](https://user-images.githubusercontent.com/12884292/48976842-fa4e5b80-f096-11e8-9b0c-ae5bec84f205.png)
 
 
