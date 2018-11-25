@@ -49,7 +49,7 @@ And of course a lot of:
 ![image](https://user-images.githubusercontent.com/12884292/48976824-cbd08080-f096-11e8-9906-03b710d6e82e.png)
 
 * [Nutritional Information] - We provide more detailed nutritional information detailed for suggested recepies. 
-We used the ![image](https://user-images.githubusercontent.com/12884292/48976859-41d4e780-f097-11e8-8362-60e8d9e8ed7c.png)
+![image](https://user-images.githubusercontent.com/12884292/48976859-41d4e780-f097-11e8-8362-60e8d9e8ed7c.png)
 ![image](https://user-images.githubusercontent.com/12884292/48976842-fa4e5b80-f096-11e8-9b0c-ae5bec84f205.png)
 
 
