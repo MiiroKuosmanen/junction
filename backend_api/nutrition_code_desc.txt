@@ -1,0 +1,96 @@
+ALKPI?: Alcohol content %
+ AVITAM?: Vitamin A (µg)
+ B12VIT?: Vitamin B12 (µg)
+ B6VITA?: Vitamin B6 (mg)
+ BIOTII?: Biotin (µg)
+ CVITAM?: Vitamin C (mg)
+ DVITAM?: Vitamin D (µg)
+ EVITAM?: Vitamin E (µg)
+ ENERKC?: Energy content kcal/100g
+ ENERKJ?: Energy content kJ/100g
+ FLUORI?: Fluorine (mg)
+ FOOLIH?: Folic acid (µg)
+ FOSFOR?: Phosphorus (mg)
+ HIHYDR?: Carbohydrates / 100g
+ HIHYSO?: Polyol (g)
+ HIHYTA?: Starch (g)
+ JODI?: Iodine (µg)
+ KALIUM?: Potassium (mg)
+ KALSIU?: Calcium (mg)
+ KLORID?: Chloride (mg)
+ KOSTPI?: Moisture content %
+ KROMI?: Chrome (µg)
+ KUPARI?: Copper (mg)
+ KUIVPI?: Dry matter content %
+ KUITUA?: Nutritional fiber / 100g
+ KVITAM?: Vitamin K (µg)
+ LAKTOO?: Lactose / 100g
+ LIHAPI?: Meat/fish content %
+ MAGNES?: Magnesium (mg)
+ MANGAA?: Manganese (mg)
+ MAITPI?: Milk fat content %
+ MARJPI?: Berry- or fruit content %
+ MELAIS?: Dilution ratio % 
+ MOLYB?: Molybdenum
+ NATPIT?: Sodium (g)
+ NIASIN?: Niacin (mg)
+ PANTOT?: Pantothenic acid (mg)
+ PROTEG?: Protein / 100g
+ RAAPAI?: Quantity of raw materials / 100g
+ RASKTY?: Monounsaturated (g)
+ RASMTY?: Polyunsaturated (g)
+ RASVAA?: Fat / 100g
+ RASVPI?: Fat content %
+ RAUTAA?: Iron (mg)
+ RAVITAM?: Vitamin A RDA
+ RB12VIT?: Vitamin B12 RDA
+ RB6VITA?: Vitamin B6 RDA
+ RBIOTII?: Biotin RDA
+ RCVITAM?: Vitamin C RDA
+ RDVITAM?: Vitamin D RDA
+ REVITAM?: Vitamin E RDA
+ RFLUORI?: Fluorine RDA
+ RFOOLIH?: Folic acid RDA
+ RFOSFOR?: Phosphorus RDA
+ RIBOFL?: Riboflavin (mg)
+ RJODI?: Iodine RDA
+ RKALIUM?: Potassium RDA
+ RKALSIU?: Calcium RDA
+ RKLORID?: Chloride RDA
+ RKROMI?: Chrome RDA
+ RKUPARI?: Copper RDA
+ RKVITAM?: Vitamin K RDA
+ RMAGNES?: Magnesium RDA
+ RMANGAA?: Manganese RDA
+ RMOLYB?: Molybdenum RDA
+ RNATPIT?: Sodium RDA
+ RNIASIN?: Niacin RDA
+ RPANTOT?: Pantothenic acid RDA
+ RRAUTAA?: Iron RDA
+ RRIBOFL?: Riboflavin RDA
+ RSELEEN?: Selenium RDA
+ RSINKKI?: Zinc RDA
+ RTIAMII?: Thiamine RDA
+ SELEEN?: Selenium (µg
+ SINKKI?: Zinc (mg)
+ SOKEPI?: Sugar content %
+ SOKERI?: Sugars / 100g
+ SUKLPI?: Cocoa content %
+ SUOLA?: Salt (g)
+ SUOLPI?: Salinity %
+ TAMEPI?: Juice content %
+ TIAMII?: Thiamine (mg)
+ TYYDPI?: Unsaturated fats %
+ TYYDRH?: Saturated fat / 100g
+ TAR_HIHYDR?: Measurement precision: carbohydrates
+ TAR_HIHYSO?: Measurement precision: polyol
+ TAR_HIHYTA?: Measurement precision: starch
+ TAR_KUITUA?: Measurement precision: nutritional fiber
+ TAR_LAKTOO?: Measurement precision: lactose
+ TAR_PROTEG?: Measurement precision: protein
+ TAR_RASKTY?: Measurement precision: monounsaturated
+ TAR_RASMTY?: Measurement precision: polyunsaturated
+ TAR_RASVAA?: Measurement precision: fat
+ TAR_SOKERI?: Measurement precision: sugars
+ TAR_SUOLA?: Measurement precision: salt
+ TAR_TYYDRH?: Measurement precision: saturated fat
