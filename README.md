@@ -1,4 +1,6 @@
 # Uncle Kalle's Dashboard and Recipe Machine
+![image](https://user-images.githubusercontent.com/12884292/48976881-8ceefa80-f097-11e8-9826-9bfd2a84b5c2.png)
+
 This Hack was made for K group's Digital Retail track Challenge at Junction Hackathon.
 Because different people have different shopping needs, and to provide a greater resolution of choices.
 
