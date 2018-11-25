@@ -12,6 +12,7 @@ Recommend recipes and healthy choices to customers. Through nifty visualizations
 * [Ingredients API] 
 * [Pricing & Availability API]
 * [Search API]I 
+
 API's Link:
 https://kesko.portal.azure-api.net/products/kesko-test-product
 
