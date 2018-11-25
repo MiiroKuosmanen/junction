@@ -11,14 +11,7 @@ headers = {
 
 params = urllib.parse.urlencode({})
 
-nutrition_codes = ['ALKPI', 'AVITAM', 'B12VIT', 'B6VITA', 'BIOTII',
-                    'CVITAM', 'DVITAM', 'EVITAM', 'ENERKC', 'ENERKJ', 'FLUORI', 'FOOLIH',
-                    'FOSFOR', 'HIHYDR', 'HIHYSO', 'HIHYTA', 'JODI', 'KALIUM', 'KALSIU', 'KLORID',
-                    'KOSTPI', 'KROMI', 'KUPARI', 'KUIVPI', 'KUITUA', 'KVITAM', 'LAKTOO', 'LIHAPI',
-                    'MAGNES', 'MANGAA', 'MAITPI', 'MARJPI', 'MELAIS', 'MOLYB', 'NATPIT', 'NIASIN',
-                    'PANTOT', 'PROTEG', 'RAAPAI', 'RASKTY', 'RASMTY', 'RASVAA', 'RASVPI', 'RAUTAA',
-                    'SELEEN', 'SINKKI', 'SOKEPI', 'SOKERI', 'SUKLPI', 'SUOLA', 'SUOLPI',
-                    'TAMEPI', 'TIAMII', 'TYYDPI', 'TYYDRH']
+nutrition_codes = []
                 
 date_test = ['2017-01-01','2017-01-02','2017-01-03']
 
