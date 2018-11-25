@@ -19,25 +19,25 @@ API's Link:
 https://kesko.portal.azure-api.net/products/kesko-test-product
 
 ## Data Analysis
-* [Jupyter Notebook]
-* [Python]
-* [Numpy]
-* [Pandas]
+* [Jupyter Notebook] The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations etc.
+* [Python 3.0]
+* [Numpy] NumPy is the fundamental package for scientific computing with Python
+* [Pandas] pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming
 
 ## Data Visualizatioin
-* [Seaborn]
-* [Python]  
+* [Seaborn]Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics
+* [Python 3.0]  
 
 ## Backend 
-* [Flask] 
-* [Python]
+* [Flask] Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.
+* [Python 3.0]
 
 
 And of course a lot of:
 * [Coffee and Energy Drinks]
 
 ### Features
-* [Market Basket Analysis] - Suggesting Market 
+* [Market Basket Analysis] - Use apriori algorithm to calculate relevant items, currently uses sub categories however can be scaled to use EAN'S.
 
 * [Financial Summary] - We used the 
 
