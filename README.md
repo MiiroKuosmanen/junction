@@ -9,7 +9,11 @@ This solution allow customers to create a custom user profile for their rewards 
 
 Recommend recipes and healthy choices to customers. Through nifty visualizations, allow customers to explore their own behavior patterns, nutritional intake, where their food comes from, and customize their recommendations based on dietary preference and restrictions.
 
-### Key Components
+
+## PRESENTATION  
+https://docs.google.com/presentation/d/1YMVPc_ZuQatYRatm2HuRfqexu4wp56YDRtdy42hSmi4/edit#slide=id.p
+
+# Key Components
 
 ## API's used 
 * [Ingredients API] 
